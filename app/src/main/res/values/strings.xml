@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FitnesKitTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trenirovki">Тренировки</string>
+    <string name="posesheniya">Посешения</string>
+
+    <string name="no_connection">No internet connection</string>
+    <string name="server_error">Server error</string>
+    <string name="empty_data">Empty data</string>
+    <string name="timeout_error">Your request has waited too long!!! Please try again later</string>
+    <string name="unknown_error">Unknown error occurred!!! Please try again later</string>
+
+    <string name="group">Group</string>
+    <string name="personal">Personal</string>
+
+    <string-array name="errors">
+        <item>@string/no_connection</item>
+        <item>@string/server_error</item>
+        <item>@string/empty_data</item>
+        <item>@string/timeout_error</item>
+        <item>@string/unknown_error</item>
+
+    </string-array>
+
+    <string-array name="lesson_types">
+        <item>@string/group</item>
+        <item>@string/personal</item>
+    </string-array>
+
+
+</resources>
